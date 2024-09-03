@@ -100,6 +100,10 @@ plt.ylabel("Average Math Score")
 plt.xticks(rotation = 45)
 plt.show()
 ```
+[Bar plot](barplot.png)
+
+![barplot](https://github.com/user-attachments/assets/ef650d49-1721-42a9-91cf-4bd2d913734d)
+
 
 ### Top Overall 7 schools 
 ```python
